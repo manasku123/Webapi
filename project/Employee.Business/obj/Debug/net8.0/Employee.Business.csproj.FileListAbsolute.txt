@@ -1,0 +1,5 @@
+C:\DMwalks\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMwalks\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfoInputs.cache
+C:\DMwalks\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfo.cs
+C:\DMwalks\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.CoreCompileInputs.cache
+C:\DMwalks\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.AssemblyReference.cache
